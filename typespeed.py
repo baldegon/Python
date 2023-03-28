@@ -1,3 +1,6 @@
+# PARA PODER USAR EL TYPESPEED ES NECESARIO USAR LA TERMINAL DEL OS, Y EJECUTAR EL ARCHIVO .PY DESDE AHI #
+
+
 ### Que tan rapido podes typear? ###
 
 import curses
